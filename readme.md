@@ -13,8 +13,8 @@
 ![Initial page](./images/InitialPage.png)
 
 ### List page
-![List page](./images/ListPage.png)
+![List page](./images/ListIdeas.png)
 
 ### Add ideas page
-![Add ideas page](./images/AddPage.png)
+![Add ideas page](./images/AddIdeas.png)
 
