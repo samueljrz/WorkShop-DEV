@@ -9,12 +9,12 @@
 * HTML
 * CSS
 
-### Initial page
+### :Initial page:
 ![Initial page](./images/InitialPage.png)
 
-### List page
+### :List page:
 ![List page](./images/ListIdeas.png)
 
-### Add ideas page
+### :Add ideas page:
 ![Add ideas page](./images/AddIdeas.png)
 
